@@ -1,0 +1,1 @@
+7cc78047-b575-415b-a841-10f9c5df8806 chunk=50MiB encryption=none externaltype=rclone name=gdrive_bch prefix=bch-annexed_data rclone_layout=lower target=gdrive_bch type=external timestamp=1679324257.952785s
